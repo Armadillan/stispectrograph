@@ -57,4 +57,8 @@ The current implementation has:
 * Create a visualisation of the spectrum, like the original software.
 * Create additional scripts, or a more universal tool.
 
+## Links
+[Github](https://github.com/Armadillan/stispectrograph/tree/main)  
+[PyPI](https://pypi.org/project/stispectrograph/)
+
 This software is published under the MIT License, see LICENSE.txt.
