@@ -19,6 +19,7 @@ setuptools.setup(
         "Programming Language :: Python :: 3.8",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent"],
-    keywords="astronomy, spectrograph, sti, sbig",
+    keywords="astronomy, spectrograph, sti, sbig, spectroscopy",
+    url="https://github.com/Armadillan/stispectrograph",
     python_requires=">=3.8",
 )
