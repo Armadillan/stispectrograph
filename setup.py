@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.2",
     author="Antoni Kowalik",
     author_email="antonikowalik23@gmail.com",
-    description="A replacement for \"ST-i Spectroscopy Program\" by SBIG.",
+    description='A replacement for SBIG\'s "ST-i Spectroscopy Program"',
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
