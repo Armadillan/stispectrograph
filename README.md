@@ -61,5 +61,5 @@ The current implementation has:
 [Github](https://github.com/Armadillan/stispectrograph/tree/main)  
 [PyPI](https://pypi.org/project/stispectrograph/)
 
-##License
+## License
 This software is published under the MIT License, see LICENSE.txt.
