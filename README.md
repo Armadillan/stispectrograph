@@ -2,7 +2,7 @@
 # stispectrograph
 ![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)
 
-This is a python package meant to replace part (maybe eventually all) of the functionality of
+This is a python package and script meant to replace part (maybe eventually all) of the functionality of
 SBIG's "ST-i Spectroscopy Program" used with the ST-i spectrograph.
 
 This package defaults to Angstrom for wavelength, like the original software.
