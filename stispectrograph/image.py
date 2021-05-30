@@ -92,7 +92,7 @@ class Image:
             The upper pixel y-value from which to crop the image before
             extracting data. Should be smaller than lower_crop.
             The default is 55.
-        lower_crop : TYPE, optional
+        lower_crop : int, optional
             The lower pixel y-value to which to crop the image before
             extracting data. Should be greater than upper_crop.
             The default is 65.
